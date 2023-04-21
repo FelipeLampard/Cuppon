@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body{
+    font-family: "Roboto" 
+}
+
+.container-fluid img{
+    width: 11rem;
+}
+
+.card{
+    width: 20rem;
+    justify-content: center;
+}
+
+.robot p{
+    font-weight: 500;
+}
+
+.pricenew{
+    font-size: 1.2rem;
+}
+
+.priceold{
+   text-decoration: line-through; 
+}
+
+.card-body h5{
+    font-weight: 300;
+    font-weight: bold;
+}
+
+.card-body p{
+font-weight: 300;
+}
+
